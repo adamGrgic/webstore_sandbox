@@ -1,0 +1,1 @@
+Write-Host "Hello this is a powershell script that is running ooooo yeah"
