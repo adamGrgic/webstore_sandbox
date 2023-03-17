@@ -28,7 +28,7 @@ jobs:
 
       - name: Perform a Pester test from the command-line
         shell: pwsh
-        run: test-script.ps1
+        run: .\test-script.ps1
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
